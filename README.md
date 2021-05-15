@@ -9,4 +9,4 @@ I am **jonghyeon byun**  who makes ✨ _special_ ✨
 - ⚡  interested in : Coffee,  Coding, Mathematics, artificial intelligence
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coupy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghyeonbyun)](https://github.com/anuraghazra/github-readme-stats)
